@@ -2,7 +2,7 @@
 want to know the cost? here it is
 README with purpose, setup, operation, and known limitations.
 written by Ivan Zheng
-
+(number inside 'script.js' can be edited)
 
 what this calculator is meant to do is to simpify the math on a purchase, starting with the price than taxes, coupon discounts, then final result.
 it works by putting in a price. than it gets subtracted by coupons, and then divded by taxes
